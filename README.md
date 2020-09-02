@@ -1,5 +1,5 @@
 # RemoveConnectionRequests
-This repository contains the JavaScript code that removes your connection requests automatically for you. 
+This repository contains the JavaScript code that removes your connection requests from LinkedIn automatically, for you. 
 
 #Follow the steps:
 1. Open your browser.
